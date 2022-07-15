@@ -9,9 +9,15 @@ Here are some ideas to get you started:
 - 🎯 Targets: Learn to deploy Machine/Deep Learning models on Cloud platforms i.e AWS, Azure or Google Cloud.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sayed-ismail-ahmed-424469166/)
 
-Technologies/Languages I am familiar with: Python, Java, TensorFlow, NumPy, Matplotlib, Pandas, Scikit-learn, SQL/PostgreSQL
+**Technologies/Languages** I am familiar with: [Python](https://www.python.org/), [Java](https://www.java.com/en/), [TensorFlow](https://www.tensorflow.org/), [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [Pandas](https://pandas.pydata.org/), [Scikit-learn](https://scikit-learn.org/stable/), [SQL/PostgreSQL](https://www.postgresql.org/)
 
 
-![Sayeddotexe's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayeddotexe&show_icons=true&theme=github_dark&hide_border=true)
+<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayeddotexe&show_icons=true&locale=en&theme=github_dark&hide_border=false" alt="sayeddotexe" /></p>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayeddotexe&theme=github_dark&hide_border=false" alt="Github streak" />
+</p>
+</div>
