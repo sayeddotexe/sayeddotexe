@@ -22,10 +22,13 @@
 </div>
 
 <p align="center">
-	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
+	<img title="GCP" alt="GCP" src="https://github.com/sayeddotexe/sayeddotexe/blob/main/Icons/google-cloud.png" width="40" height="40" />
+	<img title="TensorFlow" alt="Tensorflow" src="https://github.com/sayeddotexe/sayeddotexe/blob/main/Icons/Tensorflow_logo.svg.png" width="40" height="40" />
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
-	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
+	<img title="MySQL" alt="MySQL" src="https://github.com/sayeddotexe/sayeddotexe/blob/main/Icons/sql-server.png" width="40" height="40" />
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
 	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />	
-	<img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200" />
+	<img title="Java" alt="Java" src="https://github.com/sayeddotexe/sayeddotexe/blob/main/Icons/java.png" width="40" height="40" />
+	<img title="HTML" alt="HTML" src="https://github.com/sayeddotexe/sayeddotexe/blob/main/Icons/html-5.png" width="40" height="40" />
+	<img title="CSS" alt="CSS" src="https://github.com/sayeddotexe/sayeddotexe/blob/main/Icons/css.png" width="40" height="40" />
 </p>
