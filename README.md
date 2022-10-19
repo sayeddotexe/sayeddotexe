@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on improving my skills on creating ML models and neural networks using Tensorflow and Python libraries
 - 🌱 My skillset involves devising Machine learning models for various problems including large datasets and deploying them efficiently and effectively
 - 🎯 Targets: Learn to deploy Machine/Deep Learning models on Cloud platforms i.e **AWS**, **Azure** or **Google Cloud**.
-- 📫 How to reach me: [Linkedin](https://linkedin.com/in/sayeddotexe/), <a href="mailto:contact.ismailahmed@gmail.com">Email</a>  
+- 📫 How to reach me: [Linkedin](https://linkedin.com/in/sayeddotexe/)
 
 **Technologies/Languages** I am familiar with: [Python](https://www.python.org/), [Java](https://www.java.com/en/), [TensorFlow](https://www.tensorflow.org/), [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [Pandas](https://pandas.pydata.org/), [Scikit-learn](https://scikit-learn.org/stable/), [Keras](https://keras.io/), [SQL/PostgreSQL](https://www.postgresql.org/)
 
