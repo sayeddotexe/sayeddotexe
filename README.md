@@ -33,4 +33,5 @@
 	<img title="CSS" alt="CSS" src="https://github.com/sayeddotexe/sayeddotexe/blob/main/Icons/css.png" width="40" height="40" />
 	<img title="CSS" alt="CSS" src="https://github.com/sayeddotexe/sayeddotexe/blob/main/Icons/React-icon.svg.png" width="50" height="40" />
 	<img title="CSS" alt="CSS" src="https://github.com/sayeddotexe/sayeddotexe/blob/main/Icons/Typescript_logo_2020.svg.png" width="40" height="40" />
+	<img title="CSS" alt="CSS" src="https://github.com/sayeddotexe/sayeddotexe/blob/main/Icons/JavaScript-logo.png" width="40" height="40" />
 </p>
