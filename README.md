@@ -31,5 +31,5 @@
 	<img title="Java" alt="Java" src="https://github.com/sayeddotexe/sayeddotexe/blob/main/Icons/java.png" width="40" height="40" />
 	<img title="HTML" alt="HTML" src="https://github.com/sayeddotexe/sayeddotexe/blob/main/Icons/html-5.png" width="40" height="40" />
 	<img title="CSS" alt="CSS" src="https://github.com/sayeddotexe/sayeddotexe/blob/main/Icons/css.png" width="40" height="40" />
-	<img title="CSS" alt="CSS" src="https://github.com/sayeddotexe/sayeddotexe/blob/main/Icons/React-icon.svg.png" width="40" height="40" />
+	<img title="CSS" alt="CSS" src="https://github.com/sayeddotexe/sayeddotexe/blob/main/Icons/React-icon.svg.png" width="60" height="40" />
 </p>
