@@ -8,7 +8,7 @@
 - 🎯 Targets: Learn to deploy Machine/Deep Learning models on Cloud platforms i.e **AWS**, **Azure** or **Google Cloud**.
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/)
 
-**Technologies/Languages** I am familiar with: [Python](https://www.python.org/), [Java](https://www.java.com/en/), [C++](https://isocpp.org/), [TensorFlow](https://www.tensorflow.org/), [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [Pandas](https://pandas.pydata.org/), [Scikit-learn](https://scikit-learn.org/stable/), [Keras](https://keras.io/), [SQL/PostgreSQL](https://www.postgresql.org/)
+**Technologies/Languages** I am familiar with: [Python](https://www.python.org/), [Java](https://www.java.com/en/), [C++](https://isocpp.org/), [TensorFlow](https://www.tensorflow.org/), [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [Pandas](https://pandas.pydata.org/), [Scikit-learn](https://scikit-learn.org/stable/), [Keras](https://keras.io/), [SQL/NoSQL](https://www.postgresql.org/)
 
 
 <div align="center">
