@@ -2,7 +2,7 @@
 
 
 
-- 🎓 Enrolled in MSci Computer Science at Royal Holloway University of London.
+- 🎓 Enrolled in BSc Computer Science at Royal Holloway University of London.
 - 🔭 I’m currently working on improving my skills on creating ML models and neural networks using Tensorflow and Python libraries
 - 🌱 My skillset involves devising Machine learning models for various problems including large datasets and deploying them efficiently and effectively
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/)
