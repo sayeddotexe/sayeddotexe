@@ -2,7 +2,7 @@
 
 
 
-- 🎓 Enrolled in BSc Computer Science at Royal Holloway University of London.
+- 🎓 BSc Computer Science with First Class Honours at Royal Holloway University of London.
 - 🔭 I’m currently working on improving my skills on Cyber Threat Analysis and Cloud Security.
 - 🌱 My skillset involves devising effective security infrastructure and enforcing compliance across the cloud and on-premises.  
 - 📫 How to reach me: [Linkedin](nkedin.com/in/sayed-ismail-ahmed-424469166/)
