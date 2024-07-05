@@ -3,11 +3,11 @@
 
 
 - 🎓 Enrolled in BSc Computer Science at Royal Holloway University of London.
-- 🔭 I’m currently working on improving my skills on creating ML models and neural networks using Tensorflow and Python libraries
-- 🌱 My skillset involves devising Machine learning models for various problems including large datasets and deploying them efficiently and effectively
-- 📫 How to reach me: [Linkedin](https://linkedin.com/in/)
+- 🔭 I’m currently working on improving my skills on Cyber Threat Analysis and Cloud Security
+- 🌱 My skillset involves devising effective security infrastructure and enforcing compliance across the cloud and on-premises.  
+- 📫 How to reach me: [Linkedin](nkedin.com/in/sayed-ismail-ahmed-424469166/)
 
-**Technologies/Languages** I am familiar with: [Python](https://www.python.org/), [Java](https://www.java.com/en/), [C++](https://isocpp.org/), [TensorFlow](https://www.tensorflow.org/), [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [Pandas](https://pandas.pydata.org/), [Scikit-learn](https://scikit-learn.org/stable/), [Keras](https://keras.io/), [SQL/NoSQL](https://www.postgresql.org/)
+**Technologies/Languages** I am familiar with: [Python](https://www.python.org/), [Java](https://www.java.com/en/), [TensorFlow](https://www.tensorflow.org/), [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [Pandas](https://pandas.pydata.org/), [Scikit-learn](https://scikit-learn.org/stable/), [Keras](https://keras.io/), [SQL/NoSQL](https://www.postgresql.org/)
 
 
 <div align="center">
