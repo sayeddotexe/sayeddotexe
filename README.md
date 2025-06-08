@@ -34,10 +34,4 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer who loves bu
 
 ---
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/sayeddotexe)
-
----
-
 _Thanks for stopping by! ✨ Don't forget to star your favorite repos._
