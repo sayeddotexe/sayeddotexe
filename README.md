@@ -15,14 +15,18 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer who loves bu
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-typescript-black?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+- Frontend: ![NextJs](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![NextJs](https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-typescript-black?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+- Backend: ![Node.js](https://img.shields.io/badge/-nodejs-black?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+
+- Database: ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Supabase](https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge%22)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
 
 
 ---
