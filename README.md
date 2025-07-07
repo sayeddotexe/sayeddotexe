@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer who loves bu
 - Backend: ![Node.js](https://img.shields.io/badge/-nodejs-black?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 
 - Database: ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
