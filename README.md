@@ -34,8 +34,8 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer who loves bu
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayeddotexe&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayeddotexe&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayeddotexe&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayeddotexe&layout=compact&theme=dark)
 
 ---
 
