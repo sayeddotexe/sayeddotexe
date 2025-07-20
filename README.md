@@ -20,10 +20,11 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer who loves bu
 ![TypeScript](https://img.shields.io/badge/-typescript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
-- Backend: ![Node.js](https://img.shields.io/badge/-nodejs-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+- Backend: 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
+![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=springboot)
 
 - Database: ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
