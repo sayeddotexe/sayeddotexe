@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer who loves bu
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning: **AI integration with AWS and cloud services**
-- 🔭 I’m currently working on: **Fullstack projects to enhance my development skills**
-- 🧠 Interested in: **AI integration, cloud computing, and building intelligent applications**
+- 🌱 I’m currently learning: **AI integration with Java and cloud platforms like AWS**
+- 🔭 I’m currently working on: **Backend-focused projects using Java, Spring Boot, and cloud services**
+- 🧠 Interested in: **Scalable backend systems, cloud computing, and integrating intelligent features into applications**
 - 📫 How to reach me:  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/sayeddotexe)
 
 ---
