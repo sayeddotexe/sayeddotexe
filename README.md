@@ -77,7 +77,7 @@ Currently building distributed backend platforms that prioritize reliability, ma
 
   ### 📈 GitHub Activity
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Sa1f27&theme=transparent&hide_border=true&mode=weekly&fire=06B6D4&ring=3B82F6&currStreakLabel=6366F1&sideLabels=06B6D4)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Sayeddotexe&theme=transparent&hide_border=true&mode=weekly&fire=06B6D4&ring=3B82F6&currStreakLabel=6366F1&sideLabels=06B6D4)](https://git.io/streak-stats)
   
   [![Contribution Chart](https://github-readme-activity-graph.vercel.app/graph?username=Sayeddotexe&theme=react-dark&hide_border=true&bg_color=0d1117&area=true&line=06B6D4&point=3B82F6&area_color=6366F1)](https://github.com/sayeddotexe/github-readme-activity-graph)
 
