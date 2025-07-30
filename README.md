@@ -67,13 +67,13 @@ Currently building distributed backend platforms that prioritize reliability, ma
 </div>
 
 ---
-
+ <!---
 ## 📊 Coding Stats
 
-<div align="center">
 
   ### 🏆 LeetCode Progress
-  <img src="https://leetcard.jacoblin.cool/Sayeddotexe?theme=nord&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Sayeddotexe?theme=nord&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" /> --->
+<div align="center">
 
   ### 📈 GitHub Activity
   
