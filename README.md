@@ -58,8 +58,8 @@ Currently building distributed backend platforms that prioritize reliability, ma
         <br>PostgreSQL
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <br>Python
       </td>
     </tr>
    
