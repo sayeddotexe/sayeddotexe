@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:6366F1&height=200&section=header&text=Sayed%20Ismail%20Ahmed&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Back-end%20Java%20Developer&descSize=20&descColor=FFFFFF&descAlignY=60&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:6366F1&height=200&section=header&text=Sayed%20Ismail%20Ahmed&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer&descSize=20&descColor=FFFFFF&descAlignY=60&animation=fadeIn)
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=500&lines=Architecting+Scalable+Java+Microservices;Building+Secure+Spring+Boot+APIs;Deploying+Cloud-Native+Systems+on+AWS;Engineering+Robust+Backends" alt="Expertise" />
   </p>
@@ -14,9 +14,9 @@
 
 <img align="right" alt="AI Developer" width="300" src="https://raw.githubusercontent.com/Sa1f27/Sa1f27/main/ai_animation.gif" />
 
-## ☕ Java Backend Engineer
+## ☕ Software Engineer
 
-I design and develop scalable backend systems. My strengths include:
+I design and develop scalable systems. My strengths include:
 
 - 🔧 Spring Boot Microservices – REST APIs, gRPC, Kafka messaging, modular service design
 - ☁️ Cloud Infrastructure – AWS ECS, RDS, MSK, ALB, LocalStack for production-ready deployment
