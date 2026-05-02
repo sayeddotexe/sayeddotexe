@@ -14,6 +14,6 @@
     <img src="https://github.com/sayeddotexe/sayeddotexe/blob/main/Assets/Coinly/Gifs/CoinlyDarkMode.gif?raw=true" width="200" title="Coinly Dark Mode">
     <img src="https://github.com/sayeddotexe/sayeddotexe/blob/main/Assets/Coinly/Gifs/FilterSearch.gif?raw=true" width="200" title="Coinly Filter Search">
  </div>
-<img src="https://github.com/sayeddotexe/sayeddotexe/blob/main/Assets/Coinly/Banner.png?raw=true" width="1920" title="DMV Test Prep">
+<img src="https://raw.githubusercontent.com/sayeddotexe/sayeddotexe/e9e88566c889c591e9a74e370d7000f1cb73f49c/Assets/Coinly/Banner.png" width="1920" title="DMV Test Prep">
 
 </p>
